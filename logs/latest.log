@@ -33,3 +33,5 @@
 [23:01:01] [Server thread/INFO]: Time elapsed: 6340 ms
 [23:01:01] [Server thread/INFO]: Done (11.526s)! For help, type "help"
 [23:06:41] [User Authenticator #1/INFO]: UUID of player HttpAnimations is f2959399-cd10-486b-a0dd-ac63b57ae322
+[23:06:41] [Server thread/INFO]: HttpAnimations[/127.0.0.1:39464] logged in with entity id 42 at (25.5, 64.0, 3.5)
+[23:06:41] [Server thread/INFO]: HttpAnimations joined the game
