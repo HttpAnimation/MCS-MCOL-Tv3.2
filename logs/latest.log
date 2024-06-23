@@ -9,3 +9,10 @@
 [23:00:47] [main/INFO]: No existing world data, creating new world
 [23:00:48] [main/INFO]: Loaded 1175 recipes
 [23:00:49] [main/INFO]: Loaded 1276 advancements
+[23:00:49] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[23:00:49] [Server thread/INFO]: Loading properties
+[23:00:49] [Server thread/INFO]: Default game type: SURVIVAL
+[23:00:49] [Server thread/INFO]: Generating keypair
+[23:00:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:00:49] [Server thread/INFO]: Using epoll channel type
+[23:00:49] [Server thread/INFO]: Preparing level "world"
